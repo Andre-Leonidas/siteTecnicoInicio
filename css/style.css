@@ -1,0 +1,39 @@
+body{
+	background-color: #EEDDE2;!important
+}
+nav{
+background-color: #EEDDE2;!important	
+}
+
+.rodape{
+background-color: #000000;!important
+
+}
+.rodape p{
+	font-size: 20px;!important
+	
+}
+.rodape{
+	margin-top: 20PX; !important
+
+}
+#criado{
+text-align: center;
+color: white; !important
+padding:10px; !important
+}
+#formulario{
+	padding: 5px;!important
+}
+#formulario input{
+	margin-top: 10px;!important
+}
+#botao{
+	margin-top: 20px;!important
+}
+#chefe{
+	margin-top: 10px;
+}
+#cardapio{
+	margin-top: 10px;
+}
